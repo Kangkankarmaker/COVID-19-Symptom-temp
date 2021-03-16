@@ -1,0 +1,81 @@
+/* ========= Global Css ======== */
+section{
+	padding-top:102px;
+	padding-bottom:75px;
+	
+}
+
+
+	.color{
+		color:#095797;
+	}
+
+	.bg_color{
+		background-color:#095797;
+	}
+
+	.details-head{
+		font-size:23px;
+	}
+	.btn:hover {
+		background-color:#64a1e2;
+
+	}
+	.hover:hover {
+		background-color:#64a1e2;
+
+	}
+	#details h4{
+		color:#095797;
+		text-align: center;
+	}
+	#details p{
+	font-size:1.16rem;
+		
+	}
+	figure{
+		padding:35px;
+		
+	}
+	.roundrd-bg{
+		background-color:#EAF6FB;
+	}
+
+	#details ol p:before {
+		content: "•";
+		padding-right: 8px;
+	}
+				
+				
+
+@media(max-width:576px){
+	.h5-sm{
+		font-size:1rem
+	}
+	.h1-sm{
+		font-size:1.5rem
+	}
+	.h6-sm{
+		font-size:.99rem
+	}
+	
+	figure{
+		padding:80px;	
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
